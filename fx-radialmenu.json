@@ -1,6 +1,13 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "changelog": [
-    "Fixed player robbery bug in the menu"
+    "Fixed money issues in duel betting",
+    "New: Transition to automatic Framework detection system",
+    "Update fxmanifest.lua",
+    "Update events.lua",
+    "Update change framework folder",
+    "Update s/lua",
+    "Update versionchecker.lua",
+    "Update config.lua change Notify Function"
   ]
 }
