@@ -1,7 +1,10 @@
 {
   "version": "3.1",
   "changelog": [
-    "Fixed the issue of not being able to use items for rsgv2 after the last update.",
-    "update fxmanifest.lua/c.lua/s.lua/frameworks.lua"
+    "Fixed an issue when using the usageLimit property for RSGV2. When you set an item to usageLimit = 2, that item should be set to unique = true, in rsg-core/shared/items.lua.",
+    "Update fxmanifest.lua",
+    "Update s/s.lua",
+    "Update framework/frameworks.lua",
+    "Update versionchecker.lua"
   ]
 }
