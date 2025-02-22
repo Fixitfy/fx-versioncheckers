@@ -1,5 +1,5 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "changelog": [
     "Fixed an issue when using the usageLimit property for RSGV2. When you set an item to usageLimit = 2, that item should be set to unique = true, in rsg-core/shared/items.lua.",
     "Update fxmanifest.lua",
