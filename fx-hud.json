@@ -5,6 +5,7 @@
     "Update fxmanifest.lua",
     "Update s/s.lua",
     "Update framework/frameworks.lua",
+    "config.lua new Locale notuniqueItem",
     "Update versionchecker.lua"
   ]
 }
