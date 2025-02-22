@@ -1,7 +1,9 @@
 {
-  "version": "2.9",
+  "version": "2.91",
   "changelog": [
-    "The locale string error on the server side when taking weapons has been fixed.",
-    "Update config.lua Locale function and fxmanifest.lua"
+    "Fixed the issue with getting items from the order page in RSGV2",
+    "Update fxmanifest.lua",
+    "Update s/s.lua",
+    "Update framework/frameworks.lua"
   ]
 }
