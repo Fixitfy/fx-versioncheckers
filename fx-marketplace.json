@@ -1,7 +1,8 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "changelog": [
-    "Fixed bugs in categorization and search.",
-    "Update main.js./style.css/ui.html"
+    "Fixed the issue of selling more than the product quantity when selling products. Important update please apply.",
+    "Update ui/assets/main.js",
+    "Update fxmanifest.lua"
   ]
 }
