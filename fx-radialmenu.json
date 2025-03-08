@@ -1,13 +1,9 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "changelog": [
-    "Fixed money issues in duel betting",
-    "New: Transition to automatic Framework detection system",
+    "Fixed bug in robbery operations. For VORP and RSG",
     "Update fxmanifest.lua",
-    "Update events.lua",
-    "Update change framework folder",
-    "Update s/lua",
-    "Update versionchecker.lua",
-    "Update config.lua change Notify Function"
+    "Update client folder",
+    "Update server folder"
   ]
 }
