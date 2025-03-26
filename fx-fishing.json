@@ -4,6 +4,6 @@
     "Fixed an error when Config.RemoveBaitOnFailed is set to false",
     "---Update files",
     "c/c.lua",
-    "versionchecker.lua"
+    "fxmanifest.lua"
   ]
 }
