@@ -1,8 +1,8 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "changelog": [
-    "Fixed the issue of selling more than the product quantity when selling products. Important update please apply.",
-    "Update ui/assets/main.js",
+    "No longer when the product is sold, but when the product is put up for sale, the tax money will be deducted from the player immediately. So they won't be able to stock up on items",
+    "Update s folder",
     "Update fxmanifest.lua"
   ]
 }
