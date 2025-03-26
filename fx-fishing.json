@@ -1,12 +1,9 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "changelog": [
-    "The fishing rod duplication dupes you guys reported have been fixed.",
+    "Fixed an error when Config.RemoveBaitOnFailed is set to false",
     "---Update files",
     "c/c.lua",
-    "s/s.lua",
-    "framework/frameworks.lua",
-    "fxmanifest.lua",
     "versionchecker.lua"
   ]
 }
