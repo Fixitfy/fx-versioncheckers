@@ -1,9 +1,12 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "changelog": [
-    "Fixed the issue where the theme set in Config.Theme was not loaded.",
-    "Transitioned to a more stable tracking system for birds.",
-    "Add new Config.Locale = myPetBlip",
-    "Update fxmanifest.lua and c/c.lua"
+     "Config.Animations table has been updated. Now it will only work with the animation library. Scenarios do not work synchronized and are invalid for most peds.",
+    "----Update Files----",
+      "c/c.lua",
+      "ui/main.js",
+      "config.lua",
+      "fxmanifest.lua",
+      "versionchecker.lua"
   ]
 }
