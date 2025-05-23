@@ -1,6 +1,17 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "changelog": [
-    "The script is not finished yet. Small details will be finished and ready on 07/12/2024. Please wait for the 1.0 update.",
+      "A coordinate setting feature has been added so that you can set the dancers' stage. You can set it to any location on the map.",
+      "An option to set the game time or VPS time for show times has been added.",
+      "Automatic show loop feature added",
+      "--UPDATE FILES--",
+      "c/c.lua",
+      "s/s.lua",
+      "framework/frameworks.lua",
+      "ui/assets/style.css",
+      "ui/assets/main.js",
+      "config.lua",
+      "versionchecker.lua",
+      "fxmanifest.lua"
   ]
 }
