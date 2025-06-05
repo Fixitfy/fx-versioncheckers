@@ -1,7 +1,16 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "changelog": [
-    "Fixed the issue that if the other player is full during trade and the trade is canceled, you will not be able to trade again.",
-    "Update client and server"
+      "All reported bugs have been fixed.",
+      "One file will now be used for all frameworks",
+      "This is the recommended version. Previous versions will not be supported",
+      "-----UPDATE FILES------",
+      "s folder",
+      "c folder",
+      "framework folder",
+      "ui folder",
+      "config.lua",
+      "versionchecker.lua",
+      "fxmanifest.lua"
   ]
 }
