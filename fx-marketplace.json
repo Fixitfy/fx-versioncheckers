@@ -1,8 +1,10 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "changelog": [
-    "No longer when the product is sold, but when the product is put up for sale, the tax money will be deducted from the player immediately. So they won't be able to stock up on items",
-    "Update s folder",
-    "Update fxmanifest.lua"
+      "All reported bugs have been fixed.",
+      "A new warehouse system is now in place. Problems such as item disappearance have been solved radically. The items you buy or buy from the auction will go to the market warehouse",
+      "now rsg and vorp will be compatible in a single script. Older versions will not be supported. Use the folder from Keymaster",
+      "You no longer need the fx_market_inventory sql, it is deprecated, you can delete it",
+      "The whole file structure has been updated. If you want to use this version without any problems, back up your folder and use the new folder without making any changes"
   ]
 }
