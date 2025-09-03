@@ -1,10 +1,4 @@
 {
-  "version": "1.0",
-  "changelog": [
-    "bla bla bla.",
-  ]
-},
-{
   "version": "2.0",
   "changelog": [
     "All reported bugs have been fixed.",
