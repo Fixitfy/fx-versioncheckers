@@ -4,3 +4,9 @@
     "bla bla bla.",
   ]
 }
+{
+  "version": "2.0",
+  "changelog": [
+    "All reported bugs have been fixed.",
+  ]
+}
