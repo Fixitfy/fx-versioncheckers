@@ -1,10 +1,18 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "changelog": [
-    "Rsg errors have been fixed.",
-    "Fixed notification errors",
-    "Fixed error in framework.lua.",
-    "Update config.lua - c folder - s folder - framework folder - fxmanifest.lua"
+      "The Weebhook system has been moved to config_server.lua to prevent dumps. Please apply this important update.",
+      "Remove the old webhook code from config.lua",
+      "The reported errors have been corrected.",
+      "An ActiveJobDistance query has been added for each robbery",
+      "###--UPDATE FILES--###",
+      "s folder",
+      "c folder",
+      "versionchecker",
+      "framework folder",
+      "config.lua new Setting ActiveJobDistance",
+      "config_server.lua / New File",
+      "fxmanifest.lua"
   ]
 }
 
