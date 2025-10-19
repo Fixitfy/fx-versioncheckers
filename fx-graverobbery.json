@@ -8,7 +8,7 @@
       "###--UPDATE FILES--###",
       "s folder",
       "c folder",
-      "versionchecker",
+      "versionchecker.lua",
       "framework folder",
       "config.lua new Setting ActiveJobDistance",
       "config_server.lua / New File",
